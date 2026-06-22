@@ -1,0 +1,6 @@
+{
+  "name": "Low-Power ALU Verilog Design Tool",
+  "description": "An interactive CAD and simulation workspace to design, verify, and examine parameterizable Verilog ALUs featuring clock gating, operand isolation, power estimation, and automated testbenches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
