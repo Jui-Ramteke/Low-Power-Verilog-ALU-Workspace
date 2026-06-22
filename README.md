@@ -115,3 +115,23 @@ Synthesis via Yosys maps the behavioral Verilog to generic logic cells. The incl
 * Bridged hardware engineering with modern web development by building a cycle-accurate interactive simulator.
 * Gained practical experience with open-source ASIC toolchains (Yosys, Icarus Verilog).
 * Successfully integrated LLM APIs (Gemini) as a domain-specific educational tool within a technical application.
+
+---
+
+# 👩‍💻 Author
+
+### Jui Ramteke
+
+Linkedin:
+
+https://www.linkedin.com/in/jui-ramteke/
+
+
+Instagram:
+
+https://www.instagram.com/jui_ramteke_/
+
+
+---
+
+## ⭐ If you found this project useful, please give it a star on GitHub.
